@@ -1,5 +1,5 @@
 <?php
-require_once 'includes/businesslogics.php';
+require_once("includes/businesslogics.php");
 
 //Hardcoded username / passwords 
 $userPass = array("john"=>"pass", "greg"=>"pass");
@@ -30,7 +30,7 @@ if(isset($_POST["login"])) {
 ?>
 
 
-<!doctype HTML>
+<!DOCTYPE HTML>
 <html>
 <head>
 </head>

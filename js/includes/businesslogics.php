@@ -1,5 +1,5 @@
 <?php
-require_once '/config.php';
+require_once '../config.php';
 require_once 'dataobjects.php';
 require_once 'dbi.php';
 

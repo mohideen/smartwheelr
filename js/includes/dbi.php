@@ -1,6 +1,6 @@
 <?php
 //DBI.PHP acts as the data access layer. 
-include '/config.php';
+include '../config.php';
 require_once 'dataobjects.php';
 require_once 'businesslogics.php';
 
